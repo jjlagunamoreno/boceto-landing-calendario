@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background: linear-gradient(45deg, #007bff, #0056b3);
+    color: white;
+}
+
+h2,
+h3 {
+    color: #0056b3;
+}
+
+footer {
+    background: #343a40;
+    color: white;
+}
+
+#calendar-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+table {
+    text-align: center;
+}
